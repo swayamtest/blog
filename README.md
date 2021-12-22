@@ -1,2 +1,2 @@
 # blog
-Designing environments, systems, demography, functionalities and data sets.
+Designing environments, systems, demography, objects, functionalities and data sets.
